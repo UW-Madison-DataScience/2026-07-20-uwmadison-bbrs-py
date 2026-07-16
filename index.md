@@ -117,18 +117,22 @@ Sign up to receive future editions and read our full archive: <a href="https://c
 {% endif %}
 
 {% if site.pilot %}
-
-This workshop is aimed at teaching individuals who know a little unix shell, git, and python and are ready to learn about the next steps in software development for reserachers.
+<p>
+This workshop is aimed at teaching individuals who know a little unix shell, git, and python and are ready to learn about the next steps in software development for reserachers. <a href="https://carpentries-incubator.github.io/better-research-software/index.html">The lessons for this workshop</a> are open source and available to anyone. There is additional information about the lessona and anyone can work through the lesson.
+</p>
+<p>
 This workshop builds upon the introductory Software Carpentry with python workshop.
 After this workshop, participants will be able to:
-- Explain key principles of open and reproducible research and their implications for research software development.
-- Analyze software for maintainability, reproducibility and reuse, identifying risks and opportunities for improvement.
-- Apply professional software development workflows for version control, reproducible environment management and collaboration.
-- Design modular and extensible software to support reuse and scalable development.
-- Design and implement testing, documentation and quality assurance practices to support correct and reusable research software.
-- Evaluate software projects for openness, sustainability, reusablilty and collaborative practices.
-- Select appropriate tools and practices to support collaborative and open research software development.
-
+</p>
+<ul>
+  <li>Explain key principles of open and reproducible research and their implications for research software development.</li>
+  <li>Analyze software for maintainability, reproducibility and reuse, identifying risks and opportunities for improvement.</li>
+  <li>Apply professional software development workflows for version control, reproducible environment management and collaboration.</li>
+  <li>Design modular and extensible software to support reuse and scalable development.</li>
+  <li>Design and implement testing, documentation and quality assurance practices to support correct and reusable research software.</li>
+  <li>Evaluate software projects for openness, sustainability, reusablilty and collaborative practices.</li>
+  <li>Select appropriate tools and practices to support collaborative and open research software development.</li>
+</ul>
 {% endif %}
 
 {% comment %}
@@ -432,6 +436,8 @@ please preview your site before committing, and make sure to run
   workshop,
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
+</p>
+<p>Follow the instructions found on the <a href="https://carpentries-incubator.github.io/better-research-software/">Building Better Research Software in Python setup page</a>.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
