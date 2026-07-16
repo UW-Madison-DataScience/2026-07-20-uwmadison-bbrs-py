@@ -124,15 +124,17 @@ This workshop is aimed at teaching individuals who know a little unix shell, git
 This workshop builds upon the introductory Software Carpentry with python workshop.
 After this workshop, participants will be able to:
 </p>
-<ul>
-  <li>Explain key principles of open and reproducible research and their implications for research software development.</li>
-  <li>Analyze software for maintainability, reproducibility and reuse, identifying risks and opportunities for improvement.</li>
-  <li>Apply professional software development workflows for version control, reproducible environment management and collaboration.</li>
-  <li>Design modular and extensible software to support reuse and scalable development.</li>
-  <li>Design and implement testing, documentation and quality assurance practices to support correct and reusable research software.</li>
-  <li>Evaluate software projects for openness, sustainability, reusablilty and collaborative practices.</li>
-  <li>Select appropriate tools and practices to support collaborative and open research software development.</li>
-</ul>
+<p>
+  <ul>
+    <li>Explain key principles of open and reproducible research and their implications for research software development.</li>
+    <li>Analyze software for maintainability, reproducibility and reuse, identifying risks and opportunities for improvement.</li>
+    <li>Apply professional software development workflows for version control, reproducible environment management and collaboration.</li>
+    <li>Design modular and extensible software to support reuse and scalable development.</li>
+    <li>Design and implement testing, documentation and quality assurance practices to support correct and reusable research software.</li>
+    <li>Evaluate software projects for openness, sustainability, reusablilty and collaborative practices.</li>
+    <li>Select appropriate tools and practices to support collaborative and open research software development.</li>
+  </ul>
+</p>
 {% endif %}
 
 {% comment %}
